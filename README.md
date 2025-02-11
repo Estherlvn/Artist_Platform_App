@@ -67,5 +67,5 @@
 - **Genre** regroupe plusieurs morceaux.
 - **Playlist** est créée par un auditeur et contient plusieurs morceaux.
 - **Event** est programmé par un artiste et peut avoir plusieurs participants.
--
-- [MCD Artist Platform](MCD_Artist_Platform.png)
+  
+(MCD_Artist_Platform.png)
